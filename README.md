@@ -25,9 +25,10 @@ Users should be able to:
 ### Screenshot
 
 ![](./design/desktop-design.jpg)
+
 ### Live
 
-- Live Site URL: [here](https://dorinbraga.github.io/Interactive-rating-component/)
+- Live Site URL: [here](https://interactive-rating-componentxxx.netlify.app/)
 
 ### Built with
 
