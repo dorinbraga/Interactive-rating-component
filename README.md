@@ -27,7 +27,7 @@ Users should be able to:
 ![](./design/desktop-design.jpg)
 ### Live
 
-- Live Site URL: [Add live site URL here](https://dorinbraga.github.io/Interactive-rating-component/)
+- Live Site URL: [here](https://dorinbraga.github.io/Interactive-rating-component/)
 
 ### Built with
 
